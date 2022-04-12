@@ -20,5 +20,5 @@
 </div>
   <p> - - - - - - - - - - - - - - - - - - - - -  - - -  - -</p>
  Benilde  Bonfim
-São Tomé e Príncipe
-	<br></br>	
+São Tomé e Príncipe  (STP)
+	
