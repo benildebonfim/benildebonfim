@@ -23,3 +23,5 @@
 
   <p> - - - - - - - - - - - - - - - - - - - - -  - - -  - -</p>
  Benilde  Bonfim
+
+		![Snake animation](https://github.com/benildebonfim/benildebonfim/blob/output/github-contribution-grid-snake.svg)
