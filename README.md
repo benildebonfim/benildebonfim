@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/benilde-bonfim-750526234/"><i> * Eng.Benilde Bonfim*</i></a> 😃️</h1>	
-    <p align="center">Finalista do Curso de Engenharia Informática</p>
+    <p align="center"> Curso de Engenharia Informática</p>
 	<p align="center">Faculdade de Ciências e da Tecnologia</p> 
    
 	
