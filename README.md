@@ -1,4 +1,3 @@
-
 <div>
 
   <h1 align="center">Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/benilde-bonfim-750526234/"><i> * Engenheira Benilde Bonfim*</i></a> 😃️ </h1>	
@@ -13,6 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benildebonfim&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,6 +21,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
  </div>
+
 
 <div>	
 <br>
@@ -45,11 +46,13 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql " width="40" height="40"/></a> 
 <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a>
 </p>
+
 </div>
 
 <!--div align="center>
 <img src="https://github.com/benildebonfim/benildebonfim/assets/93544583/ec2c77a9-cd6b-4e9b-95d5-8276ee32926b.png" width="700px" />
 </div-->
+       
 ![F1Lpb3FWAAETosO](https://github.com/benildebonfim/benildebonfim/assets/93544583/ec2c77a9-cd6b-4e9b-95d5-8276ee32926b)
 
 
