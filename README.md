@@ -4,7 +4,7 @@
     <p align="center"> Licenciada em Engenharia Informática</p>
 	<p align="center">Na Universidade Pública de São Tomé e Príncipe (USTP-FCT)</p> 
 
-
+ 
 <br>
 	<div align="center">
   <a href="https://github.com/benildebonfim">
