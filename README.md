@@ -3,7 +3,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/benilde-bonfim-750526234/"><i> * Engenheira Benilde Bonfim*</i></a> 😃️ </h1>	
     <p align="center"> Licenciada em Engenharia Informática</p>
 	<p align="center">Na Universidade Pública de São Tomé e Príncipe (USTP-FCT)</p> 
-
+ 
 
 <br>
 	<div align="center">
