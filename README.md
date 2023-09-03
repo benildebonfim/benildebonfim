@@ -4,13 +4,13 @@
     <p align="center"> Licenciada em Engenharia Informática</p>
 	<p align="center">Na Universidade Pública de São Tomé e Príncipe (USTP-FCT)</p> 
 
+      
 <br>
 	<div align="center">
   <a href="https://github.com/benildebonfim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=benildebonfim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benildebonfim&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,6 +47,7 @@
 </p>
 
 </div>
+
 
 <!--div align="center>
 <img src="https://github.com/benildebonfim/benildebonfim/assets/93544583/ec2c77a9-cd6b-4e9b-95d5-8276ee32926b.png" width="700px" />
