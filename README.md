@@ -2,6 +2,7 @@
 
   <h1 align="center"> Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/benilde-bonfim-750526234/"><i> * Engenheira Benilde Bonfim*</i></a> _😃️_ </h1>	
     <p align="center"> Licenciada em Engenharia Informática</p>
+    <p align="center"> Formada em Tecnicas de Informática</p>
 	<p align="center">Est: Analista de Dados (Base de Dados)</p> 
  		<p align="center">Na Universidade Pública de São Tomé e Príncipe (USTP-FCT)</p>  
    
